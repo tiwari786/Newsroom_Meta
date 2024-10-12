@@ -72,7 +72,6 @@ header ul li a {
 .nav-left ul li {
   display: flex;
   justify-content: flex-start;
-  align-items: center;
   padding-right: 30px;
 }
 
